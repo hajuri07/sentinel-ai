@@ -1,0 +1,13 @@
+# API and configuration
+fastapi
+uvicorn[standard]
+pydantic-settings
+
+# LLM and agent runtime
+litellm
+langgraph
+
+# Testing and code quality
+pytest
+httpx
+ruff
